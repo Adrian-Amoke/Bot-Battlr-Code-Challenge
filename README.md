@@ -1,12 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Bot Battlr Challenge
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bot Battlr Challenge is a React-based web application built with Vite that allows users to manage and battle with their own army of bots. The app features interactive components to collect bots and organize your bot army for battles.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- View a collection of available bots.
+- Add bots to your personal army.
+- Manage and customize your bot army.
+- Responsive and fast UI powered by React and Vite.
+
+## Installation
+
+To get started with the project, clone the repository and install the dependencies:
+
+```bash
+npm install
+```
+
+## Usage
+
+To run the development server with hot module replacement, use:
+
+```bash
+npm run dev
+```
+
+Open your browser and navigate to the URL provided by the development server to start using the app.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+## License
+
+This project is licensed under the MIT License.
